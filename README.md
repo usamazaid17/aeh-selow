@@ -1,2 +1,2 @@
 # aeh-selow
-<h1>Tukang bubur gagal naik haji <color:#FF69B4></h1>
+<h1 style="color:#FF69B4">Tukang bubur gagal naik haji </h1>
